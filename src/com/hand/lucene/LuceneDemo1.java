@@ -43,7 +43,7 @@ public class LuceneDemo1 {
 		{
 			//文件名
 			String fileName=f.getName();
-			
+//			
 			//文件内容
 			String fileContent=FileUtils.readFileToString(f);
 			
